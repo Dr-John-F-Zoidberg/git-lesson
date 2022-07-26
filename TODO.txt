@@ -2,3 +2,5 @@ create first repo (done)
 add file done (done)
 check out git history (done)
 rest of exercise
+
+hax
